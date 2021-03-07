@@ -1,4 +1,9 @@
 .menuElement {
   color: white;
   text-align: center;
+  cursor: pointer;
+}
+
+.menuElement:hover {
+  font-weight: bold;
 }

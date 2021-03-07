@@ -1,0 +1,8 @@
+.mainPage {
+  margin-left: var(--menu-width);
+}
+
+.mainPageTitle {
+  margin-top: 30px;
+  text-align: center;
+}
