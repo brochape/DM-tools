@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dm-tools/static/css/main.16c1dd81.chunk.css",
-    "main.js": "/dm-tools/static/js/main.55103284.chunk.js",
-    "main.js.map": "/dm-tools/static/js/main.55103284.chunk.js.map",
-    "runtime-main.js": "/dm-tools/static/js/runtime-main.b0ee9630.js",
-    "runtime-main.js.map": "/dm-tools/static/js/runtime-main.b0ee9630.js.map",
-    "static/css/2.db33b1e8.chunk.css": "/dm-tools/static/css/2.db33b1e8.chunk.css",
-    "static/js/2.6152d7af.chunk.js": "/dm-tools/static/js/2.6152d7af.chunk.js",
-    "static/js/2.6152d7af.chunk.js.map": "/dm-tools/static/js/2.6152d7af.chunk.js.map",
-    "index.html": "/dm-tools/index.html",
-    "static/css/2.db33b1e8.chunk.css.map": "/dm-tools/static/css/2.db33b1e8.chunk.css.map",
-    "static/css/main.16c1dd81.chunk.css.map": "/dm-tools/static/css/main.16c1dd81.chunk.css.map",
-    "static/js/2.6152d7af.chunk.js.LICENSE.txt": "/dm-tools/static/js/2.6152d7af.chunk.js.LICENSE.txt",
-    "static/media/material-icons.css": "/dm-tools/static/media/MaterialIcons-Regular.cff684e5.woff2"
+    "main.css": "/DM-tools/static/css/main.16c1dd81.chunk.css",
+    "main.js": "/DM-tools/static/js/main.55103284.chunk.js",
+    "main.js.map": "/DM-tools/static/js/main.55103284.chunk.js.map",
+    "runtime-main.js": "/DM-tools/static/js/runtime-main.56ec777f.js",
+    "runtime-main.js.map": "/DM-tools/static/js/runtime-main.56ec777f.js.map",
+    "static/css/2.3fd59270.chunk.css": "/DM-tools/static/css/2.3fd59270.chunk.css",
+    "static/js/2.6152d7af.chunk.js": "/DM-tools/static/js/2.6152d7af.chunk.js",
+    "static/js/2.6152d7af.chunk.js.map": "/DM-tools/static/js/2.6152d7af.chunk.js.map",
+    "index.html": "/DM-tools/index.html",
+    "static/css/2.3fd59270.chunk.css.map": "/DM-tools/static/css/2.3fd59270.chunk.css.map",
+    "static/css/main.16c1dd81.chunk.css.map": "/DM-tools/static/css/main.16c1dd81.chunk.css.map",
+    "static/js/2.6152d7af.chunk.js.LICENSE.txt": "/DM-tools/static/js/2.6152d7af.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/DM-tools/static/media/MaterialIcons-Regular.cff684e5.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0ee9630.js",
-    "static/css/2.db33b1e8.chunk.css",
+    "static/js/runtime-main.56ec777f.js",
+    "static/css/2.3fd59270.chunk.css",
     "static/js/2.6152d7af.chunk.js",
     "static/css/main.16c1dd81.chunk.css",
     "static/js/main.55103284.chunk.js"
