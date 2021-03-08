@@ -1,0 +1,36 @@
+.pdfViewer {
+    width: 80%;
+    padding-left: 10px;
+}
+
+.charButtons {
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.charButton {
+    min-height: 33px;
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #ffffff;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    background-color: #242424;
+    text-align: center;
+    transition: all 0.2s;
+}
+.charButton:hover {
+    background-color: #242424b2;
+    cursor: pointer;
+}
+@media all and (max-width: 30em) {
+     .charButton {
+        display: block;
+        margin: 0.4em auto;
+    }
+}

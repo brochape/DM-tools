@@ -2,6 +2,7 @@
   color: white;
   text-align: center;
   cursor: pointer;
+  padding: 8px;
 }
 
 .menuElement:hover {
