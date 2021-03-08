@@ -36,7 +36,6 @@ export const RollDicePage: FunctionComponent = () => {
                     onChange={(evt) => inputChanged(evt)}
                     value={diceString}
                     placeholder="Dice Formula"
-                    required
                 />
                 <label htmlFor={'formula'} className={'formulaInputLabel'}>
                     Dice formula
