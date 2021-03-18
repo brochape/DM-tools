@@ -6,13 +6,17 @@ import { PAGE } from '../../Globals';
 import './SideMenu.css';
 
 export const SideMenu: FunctionComponent = () => {
-  return (
-    <div className={'sideMenu'}>
-      <MenuElement title={'Roll Dice'} associatedComponent={PAGE.ROLL_DICE} />
-      <MenuElement
-        title={'Character Sheets'}
-        associatedComponent={PAGE.CHARACTER_SHEETS}
-      />
-    </div>
-  );
+    return (
+        <div className={'sideMenu'}>
+            <MenuElement
+                title={'Roll Dice'}
+                associatedComponent={PAGE.ROLL_DICE}
+            />
+            <MenuElement
+                title={'Character Sheets'}
+                associatedComponent={PAGE.CHARACTER_SHEETS}
+            />
+            <MenuElement title="Video chat" associatedComponent={PAGE.VIDEO} />
+        </div>
+    );
 };

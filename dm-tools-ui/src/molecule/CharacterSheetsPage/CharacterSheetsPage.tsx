@@ -19,7 +19,7 @@ export const CharacterSheetsPage: FunctionComponent = () => {
 
     const charButtons: any[] = [];
     for (let pair of state.characterSheets) {
-        var [key, value] = pair;
+        var [key] = pair;
         charButtons.push(
             <button
                 className={'charButton'}
